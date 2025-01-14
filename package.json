@@ -11,5 +11,15 @@
   "description": "",
   "dependencies": {
     "bootstrap-icons": "^1.11.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArabindakumarNayak/EMS_FRONTEND.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/ArabindakumarNayak/EMS_FRONTEND/issues"
+  },
+  "homepage": "https://github.com/ArabindakumarNayak/EMS_FRONTEND#readme"
 }
